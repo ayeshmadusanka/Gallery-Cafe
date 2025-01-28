@@ -35,7 +35,7 @@ To set up the Gallery Cafe website locally, follow the steps below:
    - Install the necessary dependencies (e.g., PHP, MySQL, web server).
 
 2. **Configure the database**:
-   - Import the provided SQL file (`database/gallery_cafe.sql`) into your MySQL database.
+   - Import the provided SQL file (`database/gallery.sql`) into your MySQL database.
    - Update the database connection details in the `config/database.php` file.
 
 3. **Upload to the server**:
